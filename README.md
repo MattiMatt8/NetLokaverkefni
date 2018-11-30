@@ -5,6 +5,7 @@
 
 * ### Stillingar
     * #### Allir routerar og switch-ar
+        * ##### Viðeigandi hostname
         * ##### SSH rsa 1024 bita
             * Notandanafn: admin
             * Lykilorð: cisco123
