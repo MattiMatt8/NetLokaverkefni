@@ -14,6 +14,7 @@
             * Lykilorð: cisco
         * ##### Motd
             * Adgangur bannadur!
+        * ##### Allt vistað í startup-config
 
 * ### Routerar 
     
